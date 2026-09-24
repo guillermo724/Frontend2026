@@ -1,0 +1,12 @@
+  *{ 
+  font-family:'Courier New', Courier, monospace;
+}
+div{
+  width: fit-content;
+  height: fit-content;
+  background-color:rgb(246, 248, 133);
+  border: 10px solid black;
+  border-radius: 50px;
+  padding: 40px;
+  margin: 10px;
+}
