@@ -1,0 +1,40 @@
+html{
+    font-family: cursive;
+}
+/* Use "." to select elements with a specific class*/
+.poem_romantic{
+    background-color: rgb(241, 122, 182);
+}
+.poem_no_romantic{
+    background-color: rgb(126, 236, 200);
+}
+/*Use element selectors */
+h2{
+    color: rgb(131, 131, 233);
+}
+
+div{
+    width: 40%;
+}
+h2{
+    position: sticky;
+    top: 0;
+}
+/* Use "." to select elements with a specific class*/
+.poem_romantic{
+    position: relative;
+    background-color: rgb(241, 122, 182);
+}
+.poem_no_romantic{
+    position: relative;
+    left: 80px;
+    background-color: rgb(126, 236, 200);
+}
+/*Use element selectors */
+h2{
+    color: rgb(131, 131, 233);
+}
+div{
+    width: 40%;
+    border: 2px solid black;
+}
