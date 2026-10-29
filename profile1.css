@@ -34,3 +34,20 @@ header > nav > ul{
     display: flex;
     justify-content: space-evenly;
 }
+#my-projects > div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 1px solid rgb(0, 0, 0);
+
+}
+
+#my-projects > div > div{
+    background-color: rgb(233, 197, 78);
+    border: 1px solid rgb(228, 65, 65);
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    background-image: url("887.png");
+    background-size: cover;
+}
